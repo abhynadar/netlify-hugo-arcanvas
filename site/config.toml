@@ -24,5 +24,15 @@ min_version = 1.0
   twitter = "https://twitter.com/abhyn"
   github = "https://github.com/abhynadar"
 
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 0
+
+[[menu.main]]
+    name = "About"
+    url  = "about"
+    weight = 5
+
 [outputs]
   page = [ "HTML", "AMP" ] # if you want AMP enable.

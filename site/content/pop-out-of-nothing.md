@@ -2,7 +2,7 @@
 date = "2018-04-05T10:21:34-04:00"
 title = "Pop out of Nothing"
 draft = false
-permalink = "https://abhynadar.github.io/arcanvas/thought/pop-out-of-nothing/"
+permalink = "https://arcanvas.netlify.com/pop-out-of-nothing/"
 toc = true
 +++
 
