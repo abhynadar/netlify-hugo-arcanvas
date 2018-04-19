@@ -1,9 +1,28 @@
-baseurl = "/"
+name = "ARCanvas"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+baseurl = "/"
+title = "ARCanvas"
+theme = "hugo_theme_robust"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+license = "MIT"
+licenselink = ""
+description = "My Space my thoughts"
+homepage = "https://github.com/dim0627/hugo_theme_robust"
+tags = ["thoughts"]
+features = ["responsive", "thumbnail", "grid", "syntax highlight", "structured data", "ogp", "twitter cards"]
+min_version = 1.0
+
+[params]
+  disqusShortname = "arcanvas"
+
+[params.author]
+  thumbnail = "images/abhyn.jpg"
+  name = "Abhy Nadar"
+  description = "Believer in Jesus Christ. Software architect, love to read books, love going on long drives specially to mountains, amture photographer."
+  facebook = "https://www.facebook.com/abhy.nadar"
+  twitter = "https://twitter.com/abhyn"
+  github = "https://github.com/abhynadar"
+
+[outputs]
+  page = [ "HTML", "AMP" ] # if you want AMP enable.
