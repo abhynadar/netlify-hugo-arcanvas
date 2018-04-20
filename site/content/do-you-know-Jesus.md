@@ -2,6 +2,7 @@
 date = "2017-04-11T10:07:12+05:30"
 title = "Do you know Jesus?"
 draft = false
+permalink = "https://arcanvas.netlify.com/do-you-know-jesus/"
 
 +++
 

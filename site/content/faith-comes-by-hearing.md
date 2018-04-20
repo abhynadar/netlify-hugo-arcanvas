@@ -2,6 +2,7 @@
 draft = false
 date = "2017-06-15T10:36:52+05:30"
 title = "Faith comes by hearing"
+permalink = "https://arcanvas.netlify.com/faith-comes-by-hearing/"
 
 +++
 

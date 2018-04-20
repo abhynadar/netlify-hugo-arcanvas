@@ -2,6 +2,7 @@
 date = "2017-03-22T11:40:31+05:30"
 title = "Brain is analog"
 draft = false
+permalink = "https://arcanvas.netlify.com/brain-is-analog/"
 
 +++
 

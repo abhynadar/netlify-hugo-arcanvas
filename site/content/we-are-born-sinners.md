@@ -2,6 +2,7 @@
 date = "2017-08-11T11:11:27+05:30"
 title = "We are born sinners"
 draft = false
+permalink = "https://arcanvas.netlify.com/we-are-born-sinners/"
 
 +++
 

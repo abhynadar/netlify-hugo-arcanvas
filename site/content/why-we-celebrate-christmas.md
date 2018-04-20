@@ -2,7 +2,7 @@
 date = "2017-12-25T18:37:03-05:00"
 title = "Why we celebrate Christmas"
 draft = false
-
+permalink = "https://arcanvas.netlify.com/why-we-celebrate-christmas/"
 +++
 
 Why we celebrate Christmas?

@@ -2,6 +2,7 @@
 draft = false
 date = "2017-06-28T10:16:17+05:30"
 title = "When vilest men are exalted"
+permalink = "https://arcanvas.netlify.com/when-vile-are-exalted/"
 
 +++
 
